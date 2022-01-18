@@ -1,0 +1,4 @@
+
+ - Yüz Tespiti için Haarcascade veya mediapipe yöntemi kullanılabilir.
+ - Mediapipe ile çoklu ve 60 fps değerinde yüz tespiti yapılabilir
+ - Mediapipe face --> (https://www.youtube.com/watch?v=jn1HSXVmIrA)

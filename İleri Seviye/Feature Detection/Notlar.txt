@@ -1,0 +1,10 @@
+
+ Feature Detection / Özellik Eşleştirme:
+--------------------------------------------------
+
+- Eşleştirme fonksiyonu bulut tabanlı olduğundan internetsiz çalışmaz
+- Nesnelerin temel ve ayırıcı özniteliklerini çıkarır ve kaydeder
+- Bu öznitelikler lokasyona bağımlıdır mesafeye göre eşleşme yapar
+- Bir çok özelliği eşleştirmeye çalıştığından yavaş çalışabilir
+- Birden fazla 2 farklı nesneyi aynı anda eşleştiremez
+- Classifier projesiyle birden fazla nesneyi farklı zamanlarda eşleştirebilir

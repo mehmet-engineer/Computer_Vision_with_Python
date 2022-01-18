@@ -1,0 +1,17 @@
+
+- Kendi verilerimizle eğitilmiş cascademizi oluşturarak objemizi tanımlamaya yarayan bir projedir
+- Öncelikle CascadeTrainerGUI_3.3.1_x64_Setup.exe kurulumu yapılır
+
+- Belli bir klasörün içine p ve n olmak üzere 2 klasör açılır
+- Positif klasöre sadece kendi objemizin farklı fotoğrafları atılırken
+- Negatif klasöre istenmeyen, arkaplandaki fotoğraflar atılır
+- Fotoğrafları yakından ve arkaplanından kolay ayrışan bir zemin üzerinde çekmek daha iyidir
+- Ne kadar fazla veri olursa o kadar iyi eğitilmiş bir projemiz olur
+- Veri setindeki fotoğraflar 180x120 gibi boyutlarda alınabilir
+
+- CascadeTrainerGUI programı açılır, positif ve negatif klasörü barındıran klasör browse'den seçilir
+- Negatif image count kısmına kaç tane negatif foto varsa girilir
+- Common -> number of stages 15, Cascade -> sample width 36 ayarlanır ve sağ altta START
+- Derlemede problem çıkarsa klasörün bulunduğu dizinde türkçe karakter olmamalı, dizin değiştirilmeli
+- Derleme tamamlandıktan sonra klasörün içinde classifier dosyası otomatik olarak oluşturulmuştur
+- Bu dosyanın içindeki cascade.xml dosyasını opencv projemiz için kullanabiliriz

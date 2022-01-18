@@ -1,0 +1,7 @@
+Detection Method: OpenCV has an advanced implementation, HOUGH_GRADIENT, which uses gradient of the edges instead of filling up the entire 3D accumulator matrix, thereby speeding up the process.
+dp: This is the ratio of the resolution of original image to the accumulator matrix.
+minDist: This parameter controls the minimum distance between detected circles.
+Param1: Canny edge detection requires two parameters — minVal and maxVal. Param1 is the higher threshold of the two. The second one is set as Param1/2.
+Param2: This is the accumulator threshold for the candidate detected circles. By increasing this threshold value, we can ensure that only the best circles, corresponding to larger accumulator values, are returned.
+minRadius: Minimum circle radius.
+maxRadius: Maximum circle radius.
