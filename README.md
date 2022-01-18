@@ -27,12 +27,12 @@ Görüntü işleme/Bilgisayarlı Görü konuları aşağıda sıralanmıştır;
 
 • Histogram ve kontrast eşitleme
 
-
-## 2) Görüntü İşleme İleri Seviye (OpenCV, Numpy)
-
 • Kameradan görüntü okuma ve yazma
 
 • Video ve fps tanımı, waitkey() fonksiyonu
+
+
+## 2) Görüntü İşleme İleri Seviye (OpenCV, Numpy)
 
 • HSV renk uzayı ve özellikleri
 
@@ -49,3 +49,15 @@ Görüntü işleme/Bilgisayarlı Görü konuları aşağıda sıralanmıştır;
 • HoughLine teorisi ve uygulaması
 
 • Cascade xml dosyasıyla hazır nesne tespitleri
+
+• Araba ve Şerit Tespitleri
+
+• Açı Bulucu Projesi
+
+• İnsan ve Yüz Tespitleri
+
+• Panaroma uygulaması
+
+• QR Kod Tarayıcı
+
+• Seçilen Nesne Takibi
