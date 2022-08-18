@@ -1,63 +1,62 @@
-# Python ile Bilgisayarlı Görü, Örnek Kodlar ve Uygulamaları
+# Computer Vision and Implementations with Python
 
-Temel seviye ve ileri seviye konuları olmak üzere yazdığım tüm python kullanım kodlarını içermektedir. Repo içerisinde örnek projeler de bulunmaktadır. Yeni başlayanlar için 
-Görüntü işleme/Bilgisayarlı Görü konuları aşağıda sıralanmıştır;
+It contains all the python usage codes I wrote, including basic and advanced topics. There are also sample projects in the repo. Image processing/Computer Vision topics for beginners are listed below;
 
-## 1) Görüntü İşleme Temelleri (OpenCV, Numpy)
+## 1) Image Processing Basics (OpenCV, Numpy)
 
-• RGB, BGR, HSV, GRAY renk kanalları
+• RGB, BGR, HSV, GRAY color channels
 
-• Matris veri tipi, resim okuma ve numpy kullanımları
+• Matrix data type, image reading ve numpy usages
 
-• Görüntüde kartezyen koordinatlar
+• Cartesian coordinates in the image
 
-• Görüntülerden kesit alma ve resize
+• Slice and resize images
 
-• Line, şekil ve yazı işlemleri
+• Line, shape and writing operations
 
-• Görüntülerde toplama ve karıştırma
+• Adding and blending in images
 
-• Canny kenar ve köşe tespitleri
+• Canny edge and corner detection
 
-• Hough Circle teorisi ve daire tespiti
+• Hough Circle theory and circle detection
 
-• Maskeleme ve bitwise işlemleri
+• Masking and bitwise operations
 
-• Blur, yumuşatma ve morfoloji
+• Blur, smoothing and morphology
 
-• Histogram ve kontrast eşitleme
+• Histogram and contrast equalization
 
-• Kameradan görüntü okuma ve yazma
+• Reading and writing images from the camera
 
-• Video ve fps tanımı, waitkey() fonksiyonu
+• Video and fps definition, waitkey() function
 
 
-## 2) Görüntü İşleme İleri Seviye (OpenCV, Numpy)
+## 2) Advanced Image Processing (OpenCV, Numpy)
 
-• HSV renk uzayı ve özellikleri
+• HSV color space and properties
 
-• Konturlar ve çevrelenmesi
+• Contours and drawing
 
-• Color detection, renk filtresi ve maskelenmesi
+• Color detection, color filtering and masking
 
-• Trackbar ve kullanımı
+• Trackbar and its usage
 
-• Opening ve closing metotları
+• Opening and closing methods
 
-• Feature detection uygulaması
+• Feature detection
 
-• HoughLine teorisi ve uygulaması
+• HoughLine theory and implementation
 
-• Cascade xml dosyasıyla hazır nesne tespitleri
+• Object Detections with Haar Cascade
 
-• Araba ve Şerit Tespitleri
+• Car and lane detection
 
-• Açı Bulucu Projesi
+• Angle finder project
 
-• İnsan ve Yüz Tespitleri
+• Human and face detections
 
-• Panaroma uygulaması
+• Panaroma implementation
 
-• QR Kod Tarayıcı
+• QR Code Scanner
 
-• Seçilen Nesne Takibi
+• Object Tracking
